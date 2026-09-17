@@ -19,6 +19,7 @@
 <div align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Harishyogesh2023&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Harishyogesh2023?label=Followers&style=social" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fharishyogesh2023&query=$.totalSolved&logo=leetcode&label=LeetCode%20Solved&color=F89F1B" alt="LeetCode solved" />
 </div>
 
 ---
@@ -43,8 +44,9 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
@@ -52,10 +54,10 @@
 ### Core Skills
 
 - Frontend Development: React, JavaScript, HTML, CSS, responsive UI design
-- Mobile Development: React Native, cross-platform app development, mobile-first UX
+- Mobile Development: React Native, mobile-first UX, cross-platform app development
 - Backend Development: FastAPI, REST APIs, Python backend logic, database integration
-- Machine Learning & AI: ML concepts, data preprocessing, feature engineering, model evaluation, AI-driven features
-- Database & Architecture: MySQL, API design, data flow optimization, scalable app structure
+- Machine Learning & AI: ML-based risk analysis, model evaluation, data preprocessing, AI-driven product logic
+- Database & Architecture: PostgreSQL, MySQL, data modeling, backend workflow design
 - Problem Solving: logic building, debugging, optimization, and product-oriented thinking
 
 ---
@@ -72,27 +74,24 @@
 
 ## Featured Projects
 
-### 1. AI-Powered Recommendation / Content Intelligence System
-- Built an intelligent application focused on smart recommendations and data-driven insights
-- Integrated machine learning concepts for personalization and better decision-making
-- Emphasized clean architecture, user experience, and practical utility
+### 1. Borrower Management System
+- Tech Stack: FastAPI, PostgreSQL, Jinja2, HTML, CSS, JavaScript
+- Duration: 19 May 2025 – 02 June 2025
+- Developed a full-stack borrower management web application supporting CRUD operations for borrower records
+- Built a FastAPI backend with PostgreSQL integration for secure and efficient data storage
+- Implemented dynamic forms with dependent dropdowns and real-time validation for improved usability
+- Added features like transaction updates (amount add/subtract), search/filter, and responsive UI using Jinja2 and JavaScript
 
-### 2. React Native Mobile Application
-- Developed a mobile-first application using React Native for a smooth cross-platform experience
-- Focused on user-friendly interfaces, responsive layouts, and feature-rich interactions
-- Designed to demonstrate strong frontend and product thinking in mobile development
+### 2. QR Guardian 360 – QR Phishing Detection System
+- Tech: React Native, FastAPI, Python, Random Forest, TensorFlow Lite, PostgreSQL
+- Built a secure QR scanning system that detects phishing and malicious links using ML-based URL risk analysis and cryptographic QR verification
+- Implemented Random Forest model with on-device analysis and server-side threat intelligence to identify suspicious URLs and generate risk scores
+- Developed a React Native mobile app that scans QR codes and alerts users about tampered or fraudulent payment links
 
-### 3. Full-Stack Web Application
-- Created a modern web solution using React, backend APIs, and database connectivity
-- Focused on functional workflows, efficient data handling, and maintainable design
-- Showcased the ability to build end-to-end products from frontend to backend
-
-### 4. Smart Utility / Portfolio Dashboard
-- Built a practical dashboard-style project to present data, actions, and insights in a clean interface
-- Highlighted UI/UX design, component-based thinking, and real-world problem solving
-- Demonstrated the ability to combine design quality with technical implementation
-
-> I’m continuously improving my projects to reflect both technical growth and practical value in the industry.
+### 3. Hotel Room Booking System
+- Tech: PHP, MySQL, HTML, CSS, JavaScript
+- Built a full-stack Hotel Room Booking System featuring secure user authentication, dynamic room browsing, booking and cancellation functions, and an admin panel for managing rooms, users, and reports
+- Improved hotel workflow automation and data handling with a responsive front-end and efficient MySQL backend
 
 ---
 
@@ -109,7 +108,8 @@
 
 <p align="center">
   <a href="mailto:harishyogesh2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/harish-y-undefined-23366a2b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/harish-y-004566288/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/harishyogesh2023/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://github.com/Harishyogesh2023" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
